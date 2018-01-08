@@ -3,8 +3,9 @@ An edited version of the "Beta National Guard Camp" that comes with the game.
 
 # Changes
 * Substantially reduced enemy bot numbers.
-* Added a delay to their attack, and an audible warning (if you're close enough to hear it).
+* Added a delay to bot attack, and an audible warning (if you're close enough to hear it).
 * Renamed bots and altered descriptions to reflect their capabilities.
+* Added energy weapons and mods to weapons labs.
 
 
 # Installation Instructions:
