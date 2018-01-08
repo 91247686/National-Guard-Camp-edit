@@ -128,9 +128,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -337,9 +337,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -546,9 +546,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -755,9 +755,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -964,9 +964,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -1173,9 +1173,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -1382,9 +1382,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -1591,9 +1591,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -1800,9 +1800,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -2009,9 +2009,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -2218,9 +2218,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -2427,9 +2427,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -2636,9 +2636,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -2845,9 +2845,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -3054,9 +3054,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -3263,9 +3263,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -3483,9 +3483,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -3704,9 +3704,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -3913,9 +3913,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -4122,9 +4122,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -4331,9 +4331,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -4540,9 +4540,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -4749,9 +4749,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -4958,9 +4958,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -5167,9 +5167,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -5379,9 +5379,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -5591,9 +5591,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -5806,9 +5806,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -6027,9 +6027,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -6246,9 +6246,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -6461,9 +6461,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -6676,9 +6676,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -6894,9 +6894,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -7112,9 +7112,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -7327,9 +7327,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -7542,9 +7542,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -7757,9 +7757,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -8198,9 +8198,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -8416,9 +8416,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -8631,9 +8631,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -8846,9 +8846,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -9055,9 +9055,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -9264,9 +9264,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -9473,9 +9473,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -9682,9 +9682,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -9897,9 +9897,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -10112,9 +10112,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -10327,9 +10327,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -10542,9 +10542,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -11190,9 +11190,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -11410,9 +11410,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -11628,9 +11628,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -11843,9 +11843,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -12055,9 +12055,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -12267,9 +12267,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -12488,9 +12488,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -12709,9 +12709,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -12930,9 +12930,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -13147,9 +13147,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -13359,9 +13359,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -13574,9 +13574,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -13789,9 +13789,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -14004,9 +14004,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -14213,9 +14213,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -14422,9 +14422,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -14637,9 +14637,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -14849,9 +14849,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -14996,7 +14996,7 @@
                 "~eeeeee e~ee          ee"
             ],
             "items": {
-              "r": { "item": "weapon_testing_lab", "chance": 35 },
+              "r": { "item": "weapon_testing_lab", "chance": 40 },
               "(": { "item": "sewer", "chance": 1 }
             },
             "terrain": {
@@ -15062,9 +15062,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -15281,9 +15281,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -15499,9 +15499,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -15646,7 +15646,7 @@
                 "~ec      ec   e~~~~~~e@ "
             ],
             "items": {
-              "c": { "item": "weapon_testing_lab", "chance": 20 },
+              "c": { "item": "weapon_testing_lab", "chance": 30 },
               "(": { "item": "sewer", "chance": 1 }
             },
             "terrain": {
@@ -15712,9 +15712,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -15861,7 +15861,7 @@
             "items": {
               "B": { "item": "army_bed", "chance": 40 },
               "L": { "item": "army_personal_locker", "chance": 30 },
-              "c": { "item": "weapon_testing_lab", "chance": 20 },
+              "c": { "item": "weapon_testing_lab", "chance": 30 },
               "(": { "item": "sewer", "chance": 1 }
             },
             "terrain": {
@@ -15927,9 +15927,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -16145,9 +16145,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -16366,9 +16366,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -16582,9 +16582,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -16797,9 +16797,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -17009,9 +17009,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -17222,9 +17222,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -17435,9 +17435,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -17648,9 +17648,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -17861,9 +17861,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -18074,9 +18074,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -18292,9 +18292,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -18507,9 +18507,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -18722,9 +18722,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -18931,9 +18931,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -19140,9 +19140,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -19359,9 +19359,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -19573,9 +19573,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -19788,9 +19788,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -20006,9 +20006,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -20377,7 +20377,7 @@
             "items": {
               "k": { "item": "mil_armor_torso", "chance": 100 },
               "L": { "item": "weapon_testing_lab", "chance": 30 },
-              "c": { "item": "weapon_testing_lab", "chance": 20 },
+              "c": { "item": "weapon_testing_lab", "chance": 30 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -20443,9 +20443,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -20661,9 +20661,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -20878,9 +20878,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -21095,9 +21095,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -21315,9 +21315,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -21536,9 +21536,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -21749,9 +21749,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -21967,9 +21967,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -22185,9 +22185,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -22401,9 +22401,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -22617,9 +22617,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -22829,9 +22829,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -23044,9 +23044,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -23261,9 +23261,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -23477,9 +23477,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -23686,9 +23686,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -23895,9 +23895,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -24046,7 +24046,7 @@
 ],
             "items": {
               "L": { "item": "weapon_testing_lab", "chance": 30 },
-              "c": { "item": "weapon_testing_lab", "chance": 20 }
+              "c": { "item": "weapon_testing_lab", "chance": 30 }
             },
             "place_vehicles": [
               { "vehicle": "golf_cart", "x": [13,14], "y": [16,19], "chance": 75, "rotation": 180 }
@@ -24114,9 +24114,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -24266,7 +24266,7 @@
             "items": {
               "k": { "item": "mil_armor_torso", "chance": 100 },
               "L": { "item": "weapon_testing_lab", "chance": 30 },
-              "c": { "item": "weapon_testing_lab", "chance": 20 }
+              "c": { "item": "weapon_testing_lab", "chance": 30 }
             },
             "terrain": {
                 " ": "t_thconc_floor",
@@ -24331,9 +24331,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -24481,7 +24481,7 @@
         { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
 ],
             "items": {
-              "c": { "item": "weapon_testing_lab", "chance": 20 },
+              "c": { "item": "weapon_testing_lab", "chance": 30 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -24547,9 +24547,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -24699,7 +24699,7 @@
             "items": {
               "k": { "item": "mil_armor_torso", "chance": 100 },
               "L": { "item": "ammo_parts", "chance": 45 },
-              "c": { "item": "weapon_testing_lab", "chance": 20 },
+              "c": { "item": "weapon_testing_lab", "chance": 30 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -24765,9 +24765,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -24916,7 +24916,7 @@
 ],
             "items": {
               "L": { "item": "ammo_parts", "chance": 45 },
-              "c": { "item": "weapon_testing_lab", "chance": 20 },
+              "c": { "item": "weapon_testing_lab", "chance": 30 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -24982,9 +24982,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -25133,7 +25133,7 @@
 ],
             "items": {
               "L": { "item": "ammo_parts", "chance": 45 },
-              "c": { "item": "weapon_testing_lab", "chance": 20 },
+              "c": { "item": "weapon_testing_lab", "chance": 30 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -25199,9 +25199,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -25414,9 +25414,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -25630,9 +25630,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -25847,9 +25847,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -26066,9 +26066,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -26283,9 +26283,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -26502,9 +26502,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -26718,9 +26718,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -26939,9 +26939,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -27156,9 +27156,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -27377,9 +27377,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -27594,9 +27594,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -27811,9 +27811,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -28029,9 +28029,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -28241,9 +28241,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -28450,9 +28450,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -28659,9 +28659,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -28874,9 +28874,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -29024,7 +29024,7 @@
         { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
 ],
             "items": {
-              "c": { "item": "weapon_testing_lab", "chance": 20 },
+              "c": { "item": "weapon_testing_lab", "chance": 30 },
               "(": { "item": "sewer", "chance": 1 }
             },
             "place_vehicles": [
@@ -29093,9 +29093,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -29244,7 +29244,7 @@
 ],
             "items": {
               "L": { "item": "ammo_parts", "chance": 45 },
-              "c": { "item": "weapon_testing_lab", "chance": 20 },
+              "c": { "item": "weapon_testing_lab", "chance": 30 },
               "r": { "item": "mechanics", "chance": 45 },
               "(": { "item": "sewer", "chance": 1 }
             },
@@ -29311,9 +29311,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -29520,9 +29520,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -29729,9 +29729,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -29941,9 +29941,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -30156,9 +30156,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -30374,9 +30374,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -30592,9 +30592,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -30808,9 +30808,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -31021,9 +31021,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -31233,9 +31233,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -31445,9 +31445,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -31659,9 +31659,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -31876,9 +31876,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -32095,9 +32095,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -32309,9 +32309,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -32527,9 +32527,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -32745,9 +32745,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -32954,9 +32954,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -33163,9 +33163,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -33372,9 +33372,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -33588,9 +33588,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -33808,9 +33808,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -34029,9 +34029,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -34244,9 +34244,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -34456,9 +34456,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -34669,9 +34669,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -34890,9 +34890,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -35102,9 +35102,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -35318,9 +35318,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -35535,9 +35535,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -35751,9 +35751,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -35965,9 +35965,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -36177,9 +36177,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -36392,9 +36392,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -36604,9 +36604,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -36816,9 +36816,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -37031,9 +37031,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -37253,9 +37253,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -37474,9 +37474,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -37683,9 +37683,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -37892,9 +37892,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -38108,9 +38108,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -38324,9 +38324,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -38542,9 +38542,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -38758,9 +38758,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -38973,9 +38973,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -39182,9 +39182,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -39394,9 +39394,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -39606,9 +39606,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -39818,9 +39818,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -40032,9 +40032,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -40244,9 +40244,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -40456,9 +40456,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -40668,9 +40668,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -40880,9 +40880,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -41089,9 +41089,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -41298,9 +41298,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -41507,9 +41507,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -41716,9 +41716,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -41925,9 +41925,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -42134,9 +42134,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -42343,9 +42343,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -42552,9 +42552,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -42768,9 +42768,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -42985,9 +42985,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -43200,9 +43200,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -43416,9 +43416,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -43625,9 +43625,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -43834,9 +43834,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -44043,9 +44043,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -44252,9 +44252,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -44461,9 +44461,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -44670,9 +44670,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -44879,9 +44879,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -45088,9 +45088,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -45297,9 +45297,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -45506,9 +45506,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -45715,9 +45715,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -45924,9 +45924,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -46133,9 +46133,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -46342,9 +46342,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -46551,9 +46551,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -46760,9 +46760,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
@@ -46969,9 +46969,9 @@
                 "<": "t_stairs_up",
                 "=": [
                     "t_door_metal_c",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked",
-                    "t_door_metal_locked"
+                    "t_door_metal_c",
+                    "t_door_metal_c",
+                    "t_door_metal_c"
                 ],
                 ">": "t_stairs_down",
                 "@": "t_sai_box",

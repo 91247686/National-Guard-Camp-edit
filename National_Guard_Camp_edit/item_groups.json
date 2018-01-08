@@ -62,6 +62,7 @@
       { "group": "gunmod_rare", "prob": 10 },
       { "group": "guns_milspec", "prob": 10 },
       { "group": "mags_milspec", "prob": 10 },
+      { "group": "energy_weapon_armory", "prob": 10 },
       { "group": "mil_armor", "prob": 20 }
     ]
   },
@@ -163,13 +164,54 @@
     ]
   },
   {
-    "id": "wraitheon_infantry",
+    "id": "rifle_bot",
     "type": "item_group",
     "items": [
       { "group": "robots", "prob": 100 },
       { "item": "storage_battery", "prob": 40, "charges-min": 200, "charges-max": 1000 },
-      { "item": "223", "prob": 20, "charges-min": 10, "charges-max": 30 },
+      { "item": "762_51", "prob": 20, "charges-min": 10, "charges-max": 30 },
+      { "item": "scar_h", "prob": 20, "damage": [ 1, 2 ] }
+    ]
+  },
+  {
+    "id": "sniper_bot",
+    "type": "item_group",
+    "items": [
+      { "group": "robots", "prob": 100 },
+      { "item": "storage_battery", "prob": 40, "charges-min": 200, "charges-max": 1000 },
+      { "item": "762_51", "prob": 20, "charges-min": 10, "charges-max": 30 },
+      { "item": "m14ebr", "prob": 20, "damage": [ 1, 2 ] }
+    ]
+  },
+  {
+    "id": "light_rifle_bot",
+    "type": "item_group",
+    "items": [
+      { "group": "robots", "prob": 100 },
+      { "item": "storage_battery", "prob": 40, "charges-min": 200, "charges-max": 1000 },
+      { "item": "556", "prob": 20, "charges-min": 10, "charges-max": 30 },
       { "item": "scar_l", "prob": 20, "damage": [ 1, 2 ] }
     ]
+  },
+  {
+    "id": "flamer_bot",
+    "type": "item_group",
+    "items": [
+      { "group": "robots", "prob": 100 },
+      { "item": "storage_battery", "prob": 40, "charges-min": 200, "charges-max": 1000 },
+      { "item": "napalm", "prob": 20, "charges-min": 10, "charges-max": 30 },
+      { "item": "flamethrower", "prob": 20, "damage": [ 1, 2 ] }
+    ]
+  },
+  {
+    "id": "grenade_bot",
+    "type": "item_group",
+    "items": [
+      { "group": "robots", "prob": 100 },
+      { "item": "storage_battery", "prob": 40, "charges-min": 200, "charges-max": 1000 },
+      { "item": "40mm_incendiary", "prob": 20, "charges-min": 2, "charges-max": 4 },
+      { "item": "m320", "prob": 20, "damage": [ 1, 2 ] }
+    ]
   }
+]
 ]
