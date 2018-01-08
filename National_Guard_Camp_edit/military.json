@@ -42,7 +42,7 @@
        "no_ammo_sound": "a chk!"
      }
     ],
-    "death_drops": { "groups": [ [ "wraitheon_infantry", 30 ] ] },
+    "death_drops": { "groups": [ [ "rifle_bot", 30 ] ] },
     "death_function": [ "DISINTEGRATE" ],
     "flags": [ "HEARS", "SEES", "NOHEAD", "ELECTRONIC", "NO_BREATHE", "PATH_AVOID_DANGER_2", "PRIORITIZE_TARGETS" ]
   },
@@ -65,7 +65,8 @@
         "range": 18,
         "ranges": [ [ 0, 30, "DEFAULT" ] ]
       }
-    ]
+    ],
+    "death_drops": { "groups": [ [ "sniper_bot", 30 ] ] }
   },
   {
     "id": "mon_w12b10",
@@ -73,7 +74,7 @@
     "type": "MONSTER",
     "name": "flamer bot",
     "description": "Wraitheon (12B) Combat Engineer 10 Level, armed with a flamethrower.  Part of Wraitheon's series of one-to-one auxiliaries designed to seamlessly integrate with more traditional forces.",
-    "starting_ammo": { "gasoline": 120 },
+    "starting_ammo": { "napalm": 120 },
     "special_attacks": [
       {
        "type": "gun",
@@ -92,7 +93,8 @@
        "targeting_volume": 20,
        "no_ammo_sound": "a chk!"
      }
-    ]
+    ],
+    "death_drops": { "groups": [ [ "flamer_bot", 30 ] ] }
   },
   {
     "id": "mon_w11h10",
@@ -119,7 +121,8 @@
        "targeting_volume": 20,
        "no_ammo_sound": "a chk!"
      }
-    ]
+    ],
+    "death_drops": { "groups": [ [ "grenade_bot", 30 ] ] }
   },
   {
     "id": "mon_w12n10",
@@ -140,7 +143,7 @@
        "type": "gun",
        "cooldown": 2,
        "gun_type": "scar_l",
-       "ammo_type": "223",
+       "ammo_type": "556",
        "fake_skills": [ [ "gun", 1 ], [ "rifle", 1 ] ],
        "fake_dex": 6,
        "ranges": [ [ 5, 18, "DEFAULT" ], [ 0, 5, "AUTO" ] ],
@@ -153,6 +156,7 @@
        "targeting_volume": 20,
        "no_ammo_sound": "a chk!"
      }
-    ]
+    ],
+    "death_drops": { "groups": [ [ "light_rifle_bot", 30 ] ] }
   }
 ]
