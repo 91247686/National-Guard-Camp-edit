@@ -13,4 +13,4 @@ An edited version of the "Beta National Guard Camp" that comes with the game.
 
 * Drop the "National_Guard_Camp_edit" folder into Cataclysm\data\mods
 * Create a new world, selecting this mod in-game *and* ensuring that you do *not* select the standard one OR
-* Add this mod to your Cataclysm\save[your world]\mods.json file, ensuring that you remove the standard one (if applicable) and that every entry BUT the last has a comma ( , ) at the end.
+* Add national_guard_camp_edit to your Cataclysm\save[your world]\mods.json file, ensuring that you remove the standard one (if applicable) and that every entry BUT the last has a comma ( , ) at the end.
