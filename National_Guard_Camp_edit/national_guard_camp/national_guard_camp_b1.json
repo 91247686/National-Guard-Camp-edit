@@ -3392,7 +3392,7 @@
                 "~~~~~~~~eBBL  e         ",
                 "~~~~~~~~eeeeeee  eGGGe  ",
                 "~~~~~~~~~~~~ere  G666G  ",
-                "~~~~~~~~~~~~e +  G6h =  ",
+                "~~~~~~~~~~~~e +  G6h 9  ",
                 "~~~~~~~~~~~~ere  G666G  ",
                 "~~~~~~~~~~~~eee  eGGGe  ",
                 "~~~~~~~~~~~~~~e         ",
@@ -3410,7 +3410,7 @@
                 "________________________"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.014 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
 ],
             "items": {
               "B": { "item": "army_bed", "chance": 50 },
@@ -3630,7 +3630,7 @@
                 "________________________"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.014 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
 ],
       "toilets": {
         "t": {}
@@ -5738,7 +5738,7 @@
                 "~```````````~``~~~Z`````"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.014 }
+        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
 ],
             "items": {
               "`": { "item": "cavern", "chance": 1 }
@@ -7897,11 +7897,11 @@
                 "        9               ",
                 "eeeeeeeee               ",
                 "Le~~~~~~eeGGeeee   eeeeG",
-                "Le~~~~~eeeGGeeee===eeeeG",
+                "Le~~~~~eeeGGeeee999eeeeG",
                 "Le~~~~ee!!!!!!!Gu uG!!!!",
                 "ee~eeeee!!!!!!!Gu uG!!!!",
                 "~~~e!!!!!!!!!!!Gu uG!!!!",
-                "~eee!!!!!!!!!!!e===e!!!!"
+                "~eee!!!!!!!!!!!e999e!!!!"
               ],
       "place_monsters": [
         { "monster": "GROUP_WRAITHEON_CBRN", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
@@ -10893,7 +10893,7 @@
                 "____e~~~~~~~~~e9e~~~~e  ",
                 "____eeeeeee~~~e e~~~~e e",
                 "____G6    eeeee eeeeee e",
-                "____G6    =            e",
+                "____G6    9            e",
                 "____G6    eeeeeeeeeeeeee",
                 "____eeeeeee~~~~~~~~~~~~~",
                 "_____e~~~~~~~~~~~~~~~~~~",
@@ -11188,12 +11188,7 @@
                     "t_door_metal_o"
                 ],
                 "<": "t_stairs_up",
-                "=": [
-                    "t_door_metal_c",
-                    "t_door_metal_c",
-                    "t_door_metal_c",
-                    "t_door_metal_c"
-                ],
+                "=": "t_door_metal_locked",
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
                 "A": "t_thconc_floor",
@@ -11313,7 +11308,7 @@
             "rows": [
                 " e~~~~~~~e9e~~e e~~~~~e ",
                 " eeeeeeeee ee~e e~~~~~e ",
-                "   ec       eee=eeeeeee ",
+                "   ec       eee9eeeeeee ",
                 "   Gc       e    LLLLLe ",
                 "   G6       e         9 ",
                 "   G6h      G        be ",
@@ -14996,7 +14991,7 @@
                 "~eeeeee e~ee          ee"
             ],
             "items": {
-              "r": { "item": "weapon_testing_lab", "chance": 40 },
+              "r": { "item": "weapon_testing_lab", "chance": 24 },
               "(": { "item": "sewer", "chance": 1 }
             },
             "terrain": {
@@ -15646,7 +15641,7 @@
                 "~ec      ec   e~~~~~~e@ "
             ],
             "items": {
-              "c": { "item": "weapon_testing_lab", "chance": 30 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 },
               "(": { "item": "sewer", "chance": 1 }
             },
             "terrain": {
@@ -15861,7 +15856,7 @@
             "items": {
               "B": { "item": "army_bed", "chance": 40 },
               "L": { "item": "army_personal_locker", "chance": 30 },
-              "c": { "item": "weapon_testing_lab", "chance": 30 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 },
               "(": { "item": "sewer", "chance": 1 }
             },
             "terrain": {
@@ -19941,7 +19936,7 @@
               "k": { "item": "mil_armor_torso", "chance": 100 },
               "c": { "item": "mags_milspec", "chance": 20 },
               "L": { "item": "ammo_milspec", "chance": 50 },
-              "r": { "item": "weapon_testing_lab", "chance": 30 }
+              "r": { "item": "weapon_testing_lab", "chance": 20 }
             },
             "terrain": {
                 " ": "t_thconc_floor",
@@ -20127,7 +20122,7 @@
                 "z": "f_trashcan"
             },
             "rows": [
-                "               c    =  e",
+                "               c    9  e",
                 "               ec  ^Y  e",
                 "               c    Y  e",
                 "               c    e  e",
@@ -20157,9 +20152,9 @@
 ],
             "items": {
               "k": { "item": "mil_armor_torso", "chance": 100 },
-              "L": { "item": "ammo_milspec", "chance": 50 },
+              "L": [ { "item": "ammo_milspec", "chance": 50 }, { "item": "hightec_ammo", "chance": 1 } ],
               "c": { "item": "bionics", "chance": 100 },
-              "r": { "item": "guns_milspec", "chance": 45 }
+              "r": [ { "item": "guns_milspec", "chance": 45 }, { "item": "hightec_guns", "chance": 1 } ]
             },
              "place_loot": [
               { "group": "bionics", "x": 4, "y": 9, "chance": 100},
@@ -20376,8 +20371,8 @@
 ],
             "items": {
               "k": { "item": "mil_armor_torso", "chance": 100 },
-              "L": { "item": "weapon_testing_lab", "chance": 30 },
-              "c": { "item": "weapon_testing_lab", "chance": 30 },
+              "L": { "item": "weapon_testing_lab", "chance": 24 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -24045,8 +24040,8 @@
         { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
 ],
             "items": {
-              "L": { "item": "weapon_testing_lab", "chance": 30 },
-              "c": { "item": "weapon_testing_lab", "chance": 30 }
+              "L": { "item": "weapon_testing_lab", "chance": 24 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 }
             },
             "place_vehicles": [
               { "vehicle": "golf_cart", "x": [13,14], "y": [16,19], "chance": 75, "rotation": 180 }
@@ -24265,8 +24260,8 @@
 ],
             "items": {
               "k": { "item": "mil_armor_torso", "chance": 100 },
-              "L": { "item": "weapon_testing_lab", "chance": 30 },
-              "c": { "item": "weapon_testing_lab", "chance": 30 }
+              "L": { "item": "weapon_testing_lab", "chance": 24 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 }
             },
             "terrain": {
                 " ": "t_thconc_floor",
@@ -24481,7 +24476,7 @@
         { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
 ],
             "items": {
-              "c": { "item": "weapon_testing_lab", "chance": 30 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -24699,7 +24694,7 @@
             "items": {
               "k": { "item": "mil_armor_torso", "chance": 100 },
               "L": { "item": "ammo_parts", "chance": 45 },
-              "c": { "item": "weapon_testing_lab", "chance": 30 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -24916,7 +24911,7 @@
 ],
             "items": {
               "L": { "item": "ammo_parts", "chance": 45 },
-              "c": { "item": "weapon_testing_lab", "chance": 30 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -25133,7 +25128,7 @@
 ],
             "items": {
               "L": { "item": "ammo_parts", "chance": 45 },
-              "c": { "item": "weapon_testing_lab", "chance": 30 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 },
               "r": { "item": "ammo_parts", "chance": 45 }
             },
             "terrain": {
@@ -27303,7 +27298,7 @@
                 " 9   9              ^   "
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.014 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
 ],
 
 
@@ -29024,7 +29019,7 @@
         { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.016 }
 ],
             "items": {
-              "c": { "item": "weapon_testing_lab", "chance": 30 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 },
               "(": { "item": "sewer", "chance": 1 }
             },
             "place_vehicles": [
@@ -29244,7 +29239,7 @@
 ],
             "items": {
               "L": { "item": "ammo_parts", "chance": 45 },
-              "c": { "item": "weapon_testing_lab", "chance": 30 },
+              "c": { "item": "weapon_testing_lab", "chance": 24 },
               "r": { "item": "mechanics", "chance": 45 },
               "(": { "item": "sewer", "chance": 1 }
             },
@@ -33936,7 +33931,7 @@
                 "~~~e  e~~~e e~~~~~eeeee ",
                 "eeee  e~eee9eeeee~er    ",
                 "   e  e~eL   LLLe~er    ",
-                "   =  e~eL      e~er    ",
+                "   9  e~eL      e~er    ",
                 "6cce  e~eL      e~er    ",
                 "GGeeeeeeeeGGGGe9eeer    ",
                 "   e                    ",
@@ -34027,12 +34022,7 @@
                     "t_door_metal_o"
                 ],
                 "<": "t_stairs_up",
-                "=": [
-                    "t_door_metal_c",
-                    "t_door_metal_c",
-                    "t_door_metal_c",
-                    "t_door_metal_c"
-                ],
+                "=": "t_door_metal_locked",
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
                 "A": "t_thconc_floor",
@@ -34888,12 +34878,7 @@
                     "t_door_metal_o"
                 ],
                 "<": "t_stairs_up",
-                "=": [
-                    "t_door_metal_c",
-                    "t_door_metal_c",
-                    "t_door_metal_c",
-                    "t_door_metal_c"
-                ],
+                "=": "t_door_metal_locked",
                 ">": "t_stairs_down",
                 "@": "t_sai_box",
                 "A": "t_thconc_floor",

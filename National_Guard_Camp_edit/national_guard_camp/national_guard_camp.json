@@ -3706,7 +3706,7 @@
                 "........................"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.001 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
 ],
             "items": {
               "O": { "item": "mechanics", "chance": 50 },
@@ -5980,7 +5980,7 @@
                 "________________________"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.012 }
 ],
             "place_vehicles": [
               { "vehicle": "humvee", "x": 5, "y": 14, "chance": 25, "rotation": 180},
@@ -6207,7 +6207,7 @@
                 "_______________________s"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "terrain": {
                 " ": "t_thconc_floor",
@@ -6428,7 +6428,7 @@
                 "s=                      "
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "%": { "item": "fence_caught", "chance": 1 },
@@ -6658,7 +6658,7 @@
                 "                     =ss"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "%": { "item": "fence_caught", "chance": 1 },
@@ -12112,7 +12112,7 @@
                 "%%%%%%%%%%%%%%%%%%%%%%%%"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.006 }
+        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
 ],
             "items": {
               "z": { "item": "dirt_rubble", "chance": 25 },
@@ -22101,7 +22101,7 @@
                 "8ZZZZZZZZZZZZ88YYY    cc"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.006 }
+        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "c": { "item": "dining", "chance": 50 },
@@ -22329,7 +22329,7 @@
                 "    |cScgg  +r|S S|t|t|."
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
       "toilets": {
         "t": {}
@@ -23462,7 +23462,7 @@
                 "        e               "
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "d": { "item": "cubical_office", "chance": 40 },
@@ -23673,8 +23673,8 @@
                 "ecccccccccccc ce      W ",
                 "e     ^        ehh    e ",
                 "eeWWe+eWWe+eWWeeeee+eee ",
-                "               =      9 ",
-                "               =      9 ",
+                "               +      9 ",
+                "               +      9 ",
                 "eeeeee  eeeeeeee  ee9ee ",
                 "    #e  eo     e  e   e ",
                 "     e  eo  d  e  e  >e ",
@@ -23688,7 +23688,7 @@
                 "     e  e   d  e  e   e "
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
       "toilets": {
         "t": {}
@@ -26410,7 +26410,7 @@
                 ".|----YYY--YYYYYYYY--YY-"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.006 }
+        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "d": { "item": "cubical_office", "chance": 40 },
@@ -27105,7 +27105,7 @@
                 "........................"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.006 }
+        { "monster": "GROUP_WRAITHEON_CONSTRUCTION", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "c": { "item": "dining", "chance": 50 },
@@ -28228,7 +28228,7 @@
                 "...%sssss%...eet  +  e  ",
                 "...%s$$$s%...ee   e  eee",
                 "...%s$$$s%...eeeeee  e r",
-                "...%s$$$s%...ee  Se  =  ",
+                "...%s$$$s%...ee  Se  9  ",
                 "...%sssss%...eet  +  e6 ",
                 "...%%%%%%%...ee   e  e66",
                 ".............eeeeee  eee",
@@ -28455,12 +28455,12 @@
                 "hTTTTh  +^              ",
                 "hTTTTh  +               ",
                 "hTTTTh  e  eeeeeeWWWeeeW",
-                "        e  =EEEe        ",
-                "        e  =EEEe d6d   d",
+                "        e  9EEEe        ",
+                "        e  9EEEe d6d   d",
                 "eeeeeeeee  eEEEe  h     ",
                 "rr  rrr e  eeeee        ",
-                "        e  =EEEe d6d   d",
-                "h  h h 6e  =EEEe  h     ",
+                "        e  9EEEe d6d   d",
+                "h  h h 6e  9EEEe  h     ",
                 "66666666e  eEEEe        ",
                 "eeeeeeeee  eeeee d6d   d",
                 "              #e  h     ",
@@ -28470,7 +28470,7 @@
                 "                        ",
                 "               eeeeeeeee",
                 "           bbb#eeeeeeeee",
-                "==ee==eeeeeeeeeee.......",
+                "99ee99eeeeeeeeeee.......",
                 "sseesseeeeeeeeeee.......",
                 "sssssss..Q..............",
                 "sssssssQQQ.............."
@@ -28682,8 +28682,8 @@
             "rows": [
                 "    #e  eoo    e  eeeeee",
                 "eeeeee  eeeeeeee  errre ",
-                "            q =   e   + ",
-                "            q =   e   eo",
+                "            q 9   e   + ",
+                "            q 9   e   eo",
                 "WWeeeeeeeeeeeeee  errreo",
                 "   e  d   oo   e  eeeeee",
                 "6d e hd        +        ",
@@ -28695,7 +28695,7 @@
                 "6d et+   Seeeeeeee+eeeee",
                 "h  eee   ce             ",
                 "   et+   Se ^           ",
-                "eeeeeeee+ee  ee==e+eee99",
+                "eeeeeeee+ee  ee99e+eee99",
                 "             eEEEe re   ",
                 "             eEEEe re   ",
                 "eeeeeeee+ee  eeeeeeee   ",
@@ -28918,7 +28918,7 @@
                 "           W  hTTTh  ee.",
                 "           e#        ee.",
                 "Weeee+eee  eeeeeeeeeeee.",
-                " 7ed   de==eeeeeeeeeeee.",
+                " 7ed   de99eeeeeeeeeeee.",
                 " 7e6 h 6e  ee...........",
                 " 7e66666e  ee...........",
                 "eeeeeeeee  ee...........",
@@ -28930,7 +28930,7 @@
                 " e      e  ee...........",
                 "ee      +  ee...........",
                 "re      e  ee...........",
-                " =    hde  ee...........",
+                " 9    hde  ee...........",
                 "ee#  dd6e  ee...........",
                 "eeeeeeeee  ee..........."
               ],
@@ -33874,8 +33874,8 @@
                 "Se hd  he  eeeeeee......",
                 "ce  d   e  eeeeeee......",
                 "eeeeeeeee  e    ee......",
-                "           =    ee......",
-                "          ^=    ee......",
+                "           9    ee......",
+                "          ^9    ee......",
                 "ee++eeeeeeee  > ee......",
                 "     6   ^eeeeeeee......",
                 "E    EEE  eeeeeeee......",
@@ -35918,12 +35918,12 @@
                 "..%sss$$$sssw   |  h  |.",
                 "..%sss$$$sssY   |-----|.",
                 "..%sssssssssYYY YcScD |.",
-                "..%%%%%%%%%YYYYY      =s",
+                "..%%%%%%%%%YYYYY      9s",
                 "..........zz888YY-YY---.",
                 ".........zz88Z88zz......"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
       "toilets": {
         "t": {}
@@ -37277,7 +37277,7 @@
                 "...|+|   rrr OOrrr OOO|.",
                 "...|S|               O|.",
                 "...|t|     OOO    OOOO|.",
-                "...|-|-=--------------|.",
+                "...|-|-9--------------|.",
                 ".......sssssssssssssssss",
                 "........................",
                 "........................"
@@ -41811,7 +41811,7 @@
                 "...__________________..."
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.005 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "%": { "item": "fence_caught", "chance": 1 }
@@ -44044,7 +44044,7 @@
                 "%%%%%%%%%%%%%%%%%%%%%%%%",
                 "ww|__________________...",
                 "6dw__________________...",
-                "h =__________________...",
+                "h 9__________________...",
                 "ww|__________________...",
                 "...__________________...",
                 "...__________________..2",
@@ -44067,7 +44067,7 @@
                 "________________________"
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "d": { "item": "office", "chance": 30 },
@@ -44742,7 +44742,7 @@
                 "22222222.1111111.%..I%.."
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.004 }
+        { "monster": "GROUP_WRAITHEON_INFANTRY", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.01 }
 ],
             "items": {
               "2": { "item": "forest", "chance": 1 },
@@ -45637,7 +45637,7 @@
                 "ssssssssssssssssssG  cG1",
                 "!ss.ss!ss.ss!ss.ssG h6G1",
                 "!!s.s!!!s.s!!!s.ssG  cG1",
-                "!ss.ss!ss.ss!ss.ssee=Ge1",
+                "!ss.ss!ss.ss!ss.ssee9Ge1",
                 "ss...sss...sss..ss.F1111",
                 "ffffffF.........ss.F1111"
             ],
@@ -46766,7 +46766,7 @@
                 "...__zzzzz_,,________..."
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_CBRN", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.006 }
+        { "monster": "GROUP_WRAITHEON_CBRN", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "Y": { "item": "dirt_rubble", "chance": 60 },
@@ -49664,7 +49664,7 @@
                 "222222..1111111..%..I%.."
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_SCOUT", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.004 }
+        { "monster": "GROUP_WRAITHEON_SCOUT", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "items": {
               "%": { "item": "fence_caught", "chance": 1 },
@@ -51676,7 +51676,7 @@
                 "...________,,________..."
               ],
       "place_monsters": [
-        { "monster": "GROUP_WRAITHEON_CBRN", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.005 }
+        { "monster": "GROUP_WRAITHEON_CBRN", "x": [ 1, 22 ], "y": [ 1, 22 ], "density": 0.011 }
 ],
             "place_vehicles": [
               { "vehicle": "city_vehicles", "x": [ 3, 9 ], "y": [ 3, 19 ], "chance": 75, "rotation": 90},
